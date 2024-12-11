@@ -15,6 +15,9 @@ Also you will **need a 3-button mouse (cannot emphasize this enough)** to operat
 ## MorphoCloud On Demand
 Through the course we will test our cloud platform, MorphoCloud On Demand that provides powerful computers and GPUs to handle large datasets. Once you obtain the necessary accounts, to go https://instances.morpho.cloud, read the document about how MorphoCloud operates, and then use the provided link to request an instance. 
 
+When you are makingt the request please use the template below as the issue title:</br>
+**USP Course; Your Name**
+
 ## Resources to use through out the course:
 
 1. [Official Slicer User Manual](https://slicer.readthedocs.io/en/latest/)
