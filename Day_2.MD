@@ -1,0 +1,25 @@
+# Day 2
+
+## Recap & Q&A from Day 1
+MorphoCloud:
+
+**/unshelve** to make the instance online (it will automatically send an email with the updated credentials and access information)
+
+
+## Segmentation ##
+This is a big tutorial and it is going to have two parts:
+1. First we will do a self-paced exercise, and everybody will use the BrainTumor data from the Slicer's SampleData module to do the tutorial as written, which is here: https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation
+2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer.
+
+Other modules we will investigate are:
+
+* **Segment Statistics:** https://slicer.readthedocs.io/en/latest/user_guide/modules/segmentstatistics.html
+* **Segment Endocranium Video:** 
+    * Video: https://www.youtube.com/watch?v=EAKN1GMNY98
+    * Use the `ImportFromURL` module of SlicerMorph (SlicerMorph->Input Output->ImportfromURL) to obtain the example data. Simply paste this URL to the module: https://github.com/muratmaga/Hominoid_Skulls/blob/master/Pan_troglodytes/Pan_template0_cleaned.nrrd
+   
+* **Models:** https://slicer.readthedocs.io/en/latest/user_guide/modules/models.html
+* **Colorize Volume (provided by Sandbox extension):** https://github.com/SlicerMorph/Tutorials/tree/main/ColorizeVolume
+* **Quick Align:** https://github.com/SlicerMorph/Tutorials/tree/main/QuickAlign
+* **Animator: Exploding Models functionality** 
+* **Textured Models:**
