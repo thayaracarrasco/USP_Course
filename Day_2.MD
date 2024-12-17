@@ -1,4 +1,6 @@
 # Day 2
+## Stable ve Preview versions of Slicer
+In stable extensions can be updated. In preview they can't.
 
 ## Recap & Q&A from Day 1
 ### MorphoCloud:
