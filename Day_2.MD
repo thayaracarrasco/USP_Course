@@ -1,15 +1,16 @@
 # Day 2
 
 ## Recap & Q&A from Day 1
-MorphoCloud:
-
+MorphoCloud: </br>
 **/unshelve** to make the instance online (it will automatically send an email with the updated credentials and access information)
 
+Animator: </br>
+For both ROI and VOlume property actions, you need to have three ROIs (or Volume Properties): Start, End, and the Interpolated one. Start and End defines the starting and ending properties and they are static. Interpolated one get update for every frame Slicer is drawing. The important point you need to make sure in the `Volume Rendering` module you have the the ROI and Volume Property fields to this interpolated ones. If you leave it set at either Start or End one nothing will happen. 
 
 ## Segmentation ##
 This is a big tutorial and it is going to have two parts:
 1. First we will do a self-paced exercise, and everybody will use the BrainTumor data from the Slicer's SampleData module to do the tutorial as written, which is here: https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation
-2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer.
+2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer (After 4pm).
 
 Other modules we will investigate are:
 
@@ -21,5 +22,7 @@ Other modules we will investigate are:
 * **Models:** https://slicer.readthedocs.io/en/latest/user_guide/modules/models.html
 * **Colorize Volume (provided by Sandbox extension):** https://github.com/SlicerMorph/Tutorials/tree/main/ColorizeVolume
 * **Quick Align:** https://github.com/SlicerMorph/Tutorials/tree/main/QuickAlign
-* **Animator: Exploding Models functionality** 
-* **Textured Models:**
+* **Animator: Exploding Models functionality** Download the two datasets using the ImportFromUrl module:
+    * https://github.com/muratmaga/mouse_CT_atlas/blob/master/data/templates/35_mic_23strain_mus_template_UCHAR.nii.gz
+    * https://github.com/muratmaga/mouse_CT_atlas/blob/master/data/templates/35_mic_23strain_mus_template_UCHAR.seg.nrrd (segmentation)
+      
