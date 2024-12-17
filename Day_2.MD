@@ -1,10 +1,10 @@
 # Day 2
 
 ## Recap & Q&A from Day 1
-MorphoCloud: </br>
-**/unshelve** to make the instance online (it will automatically send an email with the updated credentials and access information)
+###MorphoCloud:
+**/unshelve** to make the instance online (it will automatically send an email with the updated credentials and access information once the instance becomes online. Emails cannot be sent when the instances are offline (aka shelved)
 
-Animator: </br>
+###Animator:
 For both ROI and VOlume property actions, you need to have three ROIs (or Volume Properties): **Start**, **End**, and the **Interpolated** one. Start and End define the starting and ending properties and they are static (i.e., they are the keyframes). Interpolated one get updated for every frame Slicer is drawing incrementing from the start condition to the end condition. The important point, you need to make sure in the `Volume Rendering` module you have the the ROI and Volume Property fields to this interpolated ones. If you leave it set at either Start or End one nothing will happen. 
 
 ## Segmentation ##
