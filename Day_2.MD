@@ -22,6 +22,7 @@ Other modules we will investigate are:
 * **Segment Endocranium Video:** 
     * Video: https://www.youtube.com/watch?v=EAKN1GMNY98
     * Use the `ImportFromURL` module of SlicerMorph (SlicerMorph->Input Output->ImportfromURL) to obtain the example data. Simply paste this URL to the module: https://github.com/muratmaga/Hominoid_Skulls/blob/master/Pan_troglodytes/Pan_template0_cleaned.nrrd
+    * Old manual procedure to extract endocast: https://slicermorph.github.io/Endocast_creation.html
    
 * **Models:** https://slicer.readthedocs.io/en/latest/user_guide/modules/models.html
 * **Colorize Volume (provided by Sandbox extension):** https://github.com/SlicerMorph/Tutorials/tree/main/ColorizeVolume
@@ -29,4 +30,5 @@ Other modules we will investigate are:
 * **Animator: Exploding Models functionality** Download the two datasets using the ImportFromUrl module:
     * https://github.com/muratmaga/mouse_CT_atlas/blob/master/data/templates/35_mic_23strain_mus_template_UCHAR.nii.gz
     * https://github.com/muratmaga/mouse_CT_atlas/blob/master/data/templates/35_mic_23strain_mus_template_UCHAR.seg.nrrd (segmentation)
+* **Transforms Module:** https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/Transforms/Transforms.md
       
