@@ -10,7 +10,9 @@ For both ROI and VOlume property actions, you need to have three ROIs (or Volume
 ## Segmentation ##
 This is a big tutorial and it is going to have two parts:
 1. First we will do a self-paced exercise, and everybody will use the BrainTumor data from the Slicer's SampleData module to do the tutorial as written, which is here: https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation
-2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer (After 4pm). You will need to download the turtle data from MorphoSource from this link (you need to be logged in to MorphoSource for download option to be enabled). https://www.morphosource.org/concern/media/000076039?locale=en
+2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer (After 4pm). You will need to download the turtle data from MorphoSource from this link (you need to be logged in to MorphoSource for download option to be enabled). This is the URL for the data. https://www.morphosource.org/concern/media/000076039?locale=en
+
+However, I created a NRRD file with slightly lower resolution (so things work out a bit faster), which you can load into Slicer directly using the ImportFromURL module of SlicerMorph. https://app.box.com/shared/static/e8x45ic0amudn2h5u3xwhxrhd8wdnx7s.nrrd (~30.5MB)
 
 Other modules we will investigate are:
 
