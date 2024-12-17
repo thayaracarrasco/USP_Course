@@ -5,12 +5,12 @@ MorphoCloud: </br>
 **/unshelve** to make the instance online (it will automatically send an email with the updated credentials and access information)
 
 Animator: </br>
-For both ROI and VOlume property actions, you need to have three ROIs (or Volume Properties): Start, End, and the Interpolated one. Start and End defines the starting and ending properties and they are static. Interpolated one get update for every frame Slicer is drawing. The important point you need to make sure in the `Volume Rendering` module you have the the ROI and Volume Property fields to this interpolated ones. If you leave it set at either Start or End one nothing will happen. 
+For both ROI and VOlume property actions, you need to have three ROIs (or Volume Properties): **Start**, **End**, and the **Interpolated** one. Start and End define the starting and ending properties and they are static (i.e., they are the keyframes). Interpolated one get updated for every frame Slicer is drawing incrementing from the start condition to the end condition. The important point, you need to make sure in the `Volume Rendering` module you have the the ROI and Volume Property fields to this interpolated ones. If you leave it set at either Start or End one nothing will happen. 
 
 ## Segmentation ##
 This is a big tutorial and it is going to have two parts:
 1. First we will do a self-paced exercise, and everybody will use the BrainTumor data from the Slicer's SampleData module to do the tutorial as written, which is here: https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation
-2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer (After 4pm).
+2. Then we will interactively explore the turtle data for more of the segmentation tools in Slicer (After 4pm). You will need to download the turtle data from MorphoSource from this link (you need to be logged in to MorphoSource for download option to be enabled). https://www.morphosource.org/concern/media/000076039?locale=en
 
 Other modules we will investigate are:
 
