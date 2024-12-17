@@ -35,3 +35,4 @@ When you are making the request for MorphoCloud instance, please use the templat
 4:00-5:30: Open Session</br>
 
 ## [Day 1](./Day_1.MD) ##
+## [Day 2](./Day_2.MD) ##
