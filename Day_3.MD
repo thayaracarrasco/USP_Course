@@ -15,3 +15,4 @@
 
 ### Data to use for these exercises
 
+Download from this link and then unzip to your desktop to use them: https://seattlechildrens1.box.com/v/mouse-models-for-gpa
