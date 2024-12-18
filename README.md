@@ -36,3 +36,8 @@ When you are making the request for MorphoCloud instance, please use the templat
 
 ## [Day 1](./Day_1.MD) ##
 ## [Day 2](./Day_2.MD) ##
+
+## Course presentations
+[Key Imaging Concepts](./Day_2.pdf)</br>
+[Statistical Shape Analysis](Day_3.pdf)</br>
+
