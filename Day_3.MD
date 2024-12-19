@@ -13,7 +13,6 @@ Quick review of the turtle data. Mask/Split Volume.
 * [MarkupEditor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor)
 * [ALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA)
 * [MALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/MALPACA)
-* PlaceLMGrid
 * [MergeMarkups](https://github.com/SlicerMorph/Tutorials/tree/main/MergeMarkups)
 * [GPA I: Intro](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_1)
 * [GPA II: Making videos](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_2)
