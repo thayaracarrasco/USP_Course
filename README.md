@@ -43,3 +43,5 @@ When you are making the request for MorphoCloud instance, please use the templat
 [Key Imaging Concepts](./Day_2.pdf)</br>
 [Statistical Shape Analysis](Day_3.pdf)</br>
 
+
+## [Link to upload class presentations](https://faculty.washington.edu/maga/data_dropbox)
