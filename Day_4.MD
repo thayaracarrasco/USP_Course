@@ -4,7 +4,7 @@
 * [Surface Toolbox](https://slicer.readthedocs.io/en/latest/user_guide/modules/surfacetoolbox.html#surface-toolbox)
 * [PlaceLMGrid](https://github.com/SlicerMorph/Tutorials/blob/main/GridBasedLandmarking/README.md)
 * [Dynamic Modeler](https://slicer.readthedocs.io/en/latest/user_guide/modules/dynamicmodeler.html#dynamic-modeler)
-* [SlicerMorphR](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
+* [SlicerMorphR](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
 
 ## Exercise for today
 * Go through the PlaceLMGrid tutorial above as written. However make sure you use the data link specified for the USP Course for this exercise. Additionally you may have to use the `Surface Toolbox` module's **Smoothing** function to place patches more smoothly. Then run your data with the GPA module.
@@ -23,6 +23,10 @@ module load rstudio
 rstudio
 ```
 
+## If time permits
+* Image Registration (Dental surgery example)
+* Programmatically doing tasks in Slicer (scripting)
+* MEMOS and deep learning based segmentation. 
 
 
 
