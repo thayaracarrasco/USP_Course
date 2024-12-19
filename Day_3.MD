@@ -10,7 +10,6 @@ Quick review of the turtle data. Mask/Split Volume.
     * [Markups II: Resamplign Curves](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_2)
     * [Markups III: Creating Blank Landmarking Templates](https://github.com/SlicerMorph/Tutorials/blob/main/Markups_3/README.md)
 * [PseudoLMGenerator](https://github.com/SlicerMorph/Tutorials/tree/main/PseudoLMGenerator)
-* [MarkupEditor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor)
 * [ALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA)
 * [MALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/MALPACA)
 * [MergeMarkups](https://github.com/SlicerMorph/Tutorials/tree/main/MergeMarkups)
