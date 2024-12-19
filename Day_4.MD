@@ -9,6 +9,8 @@
 ## Exercise for today
 * Go through the PlaceLMGrid tutorial above as written. However make sure you use the data link specified for the USP Course for this exercise. Additionally you may have to use the `Surface Toolbox` module's **Smoothing** function to place patches more smoothly. Then run your data with the GPA module.
 
+[**Link to download 4 merged samples to use in the GPA**](https://github.com/muratmaga/USP_Course/blob/main/GridExample.zip)
+
 * Use the SLicerMorphR tutorial above to load your data into R and and geomorph and "slide" the semi landmarks and then bring them back to SlicerMorph for visualization. If you do not already have R and Rstudio on your computer, you can use the MorphoCloud. To do that, first  **/unshelve** your session, and log into it, open a terminal window and type this command and hit enter: 
 ```
 curl https://jetstream2.exosphere.app/exosphere/assets/scripts/mount_ceph.py | sudo python3 - mount \
