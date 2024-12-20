@@ -6,7 +6,7 @@ To unshelve the instance go to your github issue page, and add the comment `/uns
 ## Course Evaluations (15 minutes)
 Please go to the https://forms.gle/fFJHzeFcLKW75vKE9 and fill the course evaluation.
 
-## Git and Github tutorial (you will need your MorphoCloud instance running for this)
+## Git and Github tutorial (you will need your MorphoCloud instance running everything below. You cannot do this in your own computer. If MorphoCloud doesn't work for you, please find a partner.)
 ### Setting up the environment on MorphoCloud
 Login to your instance, open the Firefox browser, and from there navigate to the Day 5 link of the course website. You should continue to the rest of the tutorial using the Firefox browser inside your instance. You will copy and paste code, and it is harder to the if you use the web browser in your own computer. 
 
