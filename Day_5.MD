@@ -14,9 +14,9 @@ In the Morphocloud, proceed to open a terminal (command line) and type this comm
 ```
 gh auth login
 ```
-Accept all the questions and then when the web browser pops up please enter the github credentials you have created for the course. It will ask you to enter the 8-digit code displayed in the terminal window into the web browser (code looks like something AE1B-3SSC. Make sure you enter the unique code generated for you.)
+Accept all the questions (you will need to hit `ENTER` key a few times until the browser pops up) and then when the web browser pops up please login to GitHub. Once you logged in, GitHub  will ask you to enter the 8-digit code displayed in the terminal window into the web browser (code looks like something **AE1B-3SSC**. Make sure you enter the unique code generated for you, not this one. You can highlight the code in the terminal windows with mouse, right-mouse click and copy and and then right-click in the browser windows to paste)
 
-When pops up, you should authorize the GH to access your account. If all went well, you should see a message that says: 
+In the next window you should authorize the GH to access your account. If all went well, you should see a message that says: 
 `Congratulations, you are all set!`
 
 ### Working with github.
