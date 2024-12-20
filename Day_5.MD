@@ -36,7 +36,29 @@ Then proceed to click the green 'Create Pull Request` button.
 
 * Congratulations you have done your first PR. This will trigger an email to me, notifying your changes and once I review them, I will accept and merge the changes. Alternatively, I may request some changes to your edits. In that change I will provide some information about what i want it to be change, and change the status of your PR to **DRAFT** (meaning, send it back to you). 
 
-* 
+### Running MorphoDepot 
+* Open the Firefox window, and go to https://github.com/muratmaga/pinecone/issues/new
+* As the issue title enter your **FullName**, and as the description provide this following text:
+`My first MorphoDepot assignment. Will segment a pine cone scale.`
+
+This will create a specific issue for you, github will ping me, and I will assign it to you to start with MorphoDepot. (When you submit the issue, please come to me and let me know. I might be doing other things at the time and my not see the notification). 
+
+* Launch  Slicer application, go to the extension catalog, search for `MorphoDepot` and install the extension. Restart for changes to take effect. 
+* After the restart search for the `MorphoDepot` module in Slicer. And hit the Refresh Github button. This should list your specific issue (this will take up to a minute, be patient). When the issue appears, double-click it to download into the slicer (say YES to the popup about closing the scene and loading the issue). It may take another couple minutes for the pine cone image to appear in Slicer and it automatically switch to Segment Editor. At this point you are ready to segment. Just pick up a random scale and paint it with sphere brush. If you have come this far, you are ready to submit your assignment. 
+
+**NOTE:** If you clicked the `Refresh Github` button and waited for a while and nothing happened, chances are I didn't see your issue and assign it back to you.  Come see me, and bring your computer too.
+
+* When done with segmentation, go back to the MorphoDepot module. Find the text field that says `Commit message:` and type 
+```
+First attempt
+```
+and then hit `Commit and Push` button, this will do two things: (1.) Locally commmit the changes to the repository, and (2.) Push those changes to your fork of the pine cone repository (i.e., your own fork will have these changes). This is equivalent of saving files. With MorphoDepot we will **NEVER** use the regular save, export as functions. 
+
+* You are now ready to submit your assignment to be reviewed. Simply click `Request PR Review` and then come see me (with your computer). 
+
+
+
+
 
 
 
