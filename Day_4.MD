@@ -27,7 +27,7 @@ rstudio
 
 ## If time permits
 * [Image Registration Documentation from Slicer](https://slicer.readthedocs.io/en/latest/user_guide/registration.html)
-* [Slicer Script Repository (Examples are organized by the modules)] doing tasks in Slicer](https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html) (scripting)
+* [Slicer Script Repository (Examples are organized by the modules)](https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html) (scripting)
 
 
 
